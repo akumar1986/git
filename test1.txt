@@ -1,3 +1,8 @@
 test1
+<<<<<<< HEAD
 test2
 tes7
+=======
+test2s
+test3
+>>>>>>> 3931433c91f12518add28e63c7fb247bbb5c3b79
